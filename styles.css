@@ -8,11 +8,15 @@ DARK BLUE: #1D3557
 
 */
 
+
+
+
 body {
     
     margin: 0;
     text-align: center;
     color: #1D3557;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 img {
